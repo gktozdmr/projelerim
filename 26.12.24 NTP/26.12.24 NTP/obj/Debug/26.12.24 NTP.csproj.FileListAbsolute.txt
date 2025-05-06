@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\Projeler\26.12.24 NTP\26.12.24 NTP\obj\Debug\26.12.24 NTP.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Projeler\26.12.24 NTP\26.12.24 NTP\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\HP\Desktop\Projeler\26.12.24 NTP\26.12.24 NTP\obj\Debug\_26._12._24_NTP.Properties.Resources.resources
+C:\Users\HP\Desktop\Projeler\26.12.24 NTP\26.12.24 NTP\obj\Debug\26.12.24 NTP.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Projeler\26.12.24 NTP\26.12.24 NTP\obj\Debug\26.12.24 NTP.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Projeler\26.12.24 NTP\26.12.24 NTP\bin\Debug\26.12.24 NTP.exe
+C:\Users\HP\Desktop\Projeler\26.12.24 NTP\26.12.24 NTP\bin\Debug\26.12.24 NTP.pdb
+C:\Users\HP\Desktop\Projeler\26.12.24 NTP\26.12.24 NTP\obj\Debug\26.12.24 NTP.exe
+C:\Users\HP\Desktop\Projeler\26.12.24 NTP\26.12.24 NTP\obj\Debug\26.12.24 NTP.pdb
