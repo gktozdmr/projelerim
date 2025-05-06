@@ -1,0 +1,2 @@
+C:\Users\HP\Desktop\Projeler\26.12.24 web\26.12.24 web\obj\Debug\26.12.24 web.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Projeler\26.12.24 web\26.12.24 web\obj\Debug\26.12.24 web.csproj.CoreCompileInputs.cache
